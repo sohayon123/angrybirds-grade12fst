@@ -1,4 +1,5 @@
 //Name: Sasha Ohayon and Kyle Singer
+//Name: Sasha Ohayon
 //Program Name: Angry Chaims
 //Date Edited: May 21st, 2017
 
